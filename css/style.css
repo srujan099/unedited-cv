@@ -1,0 +1,187 @@
+body {
+  background-color: #e8ffff;
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'marriweather', serif;
+}
+
+h1 {
+  color: #66bfbf;
+  margin-top: 0;
+  line-height: 0.5;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.625rem;
+  top: 90px;
+}
+
+h2 {
+  color: #66bfbf;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.625rem;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 1.625rem;
+  font-family: 'Montserrat', sans-serif;
+  top: 90px;
+  padding-bottom: 10px;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.cloud0 {
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  bottom: 40%;
+  right: 75%;
+}
+
+.cloud1 {
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  bottom: 65%;
+  right: 15%;
+}
+
+.cloud2 {
+  width: 15%;
+  height: 20%;
+  position: relative;
+  bottom: 40%;
+  right: 15%;
+  top:25%;
+}
+
+.mountain {
+  width: 100%;
+  position: relative;
+}
+
+.profile-img {
+  width: 20%;
+  height: 25%;
+  margin-top: 10px;
+}
+
+.web-dev-crop {
+  width: 30%;
+  text-align: center;
+  float: left;
+  margin-right: 40px;
+  margin-top: 0;
+}
+
+.mern-crop {
+  width: 25%;
+  float: right;
+  text-align: center;
+  margin-left: 40px;
+  margin-top: 15px;
+  margin-right: 50px;
+}
+
+.skill-row {
+  line-height: 2;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: justify;
+}
+
+.middle-container {
+  margin: 100px 0;
+  background-color: white;
+  margin-top: 1px;
+}
+
+.bottom-container {}
+
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+hr {
+  border: dotted 6px;
+  color: grey;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.contact-msg {
+  width: 50%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  border-top: 1px solid #66bfbf;
+  background: #66bfbf;
+  background: -webkit-gradient(linear, left top, left bottom, from(#66bfbf), to(#66bfbf));
+  background: -webkit-linear-gradient(top, #66bfbf, #66bfbf);
+  background: -moz-linear-gradient(top, #66bfbf, #66bfbf);
+  background: -ms-linear-gradient(top, #66bfbf, #66bfbf);
+  background: -o-linear-gradient(top, #66bfbf, #66bfbf);
+  padding: 8.5px 17px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  color: white;
+  font-size: 16px;
+  font-family: Helvetica, Arial, Sans-Serif;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.btn:hover {
+  border-top-color: #e8ffff;
+  background: #e8ffff;
+  color: #40514e;
+}
+
+.btn:active {
+  border-top-color: #ffffff;
+  background: #ffffff;
+}
+a{
+  color: #66bfbf ;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 15px;
+  text-decoration: none;
+}
+a:hover{
+  color: skyblue;
+}
+.copyright{
+  color: skyblue;
+}
+/*
+.insta-logo{
+width: 3%;
+position: absolute;
+  left: 53%;
+  top: 2.5px;
+}
+.linkedin-logo{
+width: 3%;
+position: absolute;
+  left: 7%;
+  top: 2.5px;
+}
+.twitter-logo{
+width: 3%;
+position: absolute;
+  left: 27%;
+  bottom: 2.5px;
+}
+*/
