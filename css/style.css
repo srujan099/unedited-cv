@@ -39,7 +39,6 @@ h3 {
 
 .cloud0 {
   width: 15%;
-  height: 20%;
   position: absolute;
   bottom: 40%;
   right: 75%;
@@ -47,7 +46,6 @@ h3 {
 
 .cloud1 {
   width: 15%;
-  height: 20%;
   position: absolute;
   bottom: 65%;
   right: 15%;
@@ -55,8 +53,7 @@ h3 {
 
 .cloud2 {
   width: 15%;
-  height: 20%;
-  position: relative;
+  position: absolute;
   bottom: 40%;
   right: 15%;
   top:25%;
