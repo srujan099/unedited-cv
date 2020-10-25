@@ -40,23 +40,22 @@ h3 {
 .cloud0 {
   width: 15%;
   position: absolute;
-  bottom: 40%;
-  right: 75%;
+  bottom: 60%;
+  right: 85%;
 }
 
 .cloud1 {
   width: 15%;
   position: absolute;
-  bottom: 65%;
-  right: 15%;
+  bottom: 70%;
+  right: 10%;
 }
 
 .cloud2 {
   width: 15%;
   position: absolute;
-  bottom: 40%;
-  right: 15%;
-  top:25%;
+  bottom: 65%;
+  right: 55%;
 }
 
 .mountain {
